@@ -20,3 +20,18 @@ git config --global user.email "tu@email.com"
 git config --global init.defaultBranch main -> cuando se crea un proyecto main sera la rama por defecto
 
 git config --list --show-origin -> lista los origenes
+
+git remote -v -> revisa las url
+
+git branc -M main
+git push origin -u main
+
+CICLO DE TRABAJO DIARIO
+
+git pull
+git switch -c 
+
+gi add 
+git commit 
+
+git push
