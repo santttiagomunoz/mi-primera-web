@@ -1,0 +1,22 @@
+daiyly commands
+
+git init 
+git add
+git diff --staged
+git status
+git commit -m
+git checkout
+git switch -c -> para crear rama y cambiar a ella
+git log --online
+git clone
+git merge
+git pull
+git push
+
+
+
+git config --global user.name "Tu Nombre"
+git config --global user.email "tu@email.com"
+git config --global init.defaultBranch main -> cuando se crea un proyecto main sera la rama por defecto
+
+git config --list --show-origin -> lista los origenes
